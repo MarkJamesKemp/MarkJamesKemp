@@ -2,10 +2,6 @@
 
 ## Background & Experiance
 
-## My Websites
-
-##### https://ThatQAGuy.Tech
-
 ## ISTQB Qualifications
 
 ##### One 
