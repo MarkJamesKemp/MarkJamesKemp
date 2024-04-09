@@ -19,14 +19,6 @@
   <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
 </p>
 
-##### Two
-
-##### Three
-
-##### Four
-
-##### Five
-
 ## BSC Qualifications
 
 ##### BA
