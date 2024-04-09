@@ -4,7 +4,7 @@
 
 ## ISTQB Qualifications
 
- ![Tux, the Linux mascot](https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true)
+ ![Tux, the Linux mascot](https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true){width=250 height=250}
 
 ##### Two
 
