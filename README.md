@@ -6,13 +6,20 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
-</html>
+
 
 ## About Me
 
 ## Background & Experiance
 
 ## ISTQB Qualifications
+<p float="left">
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+</p>
+
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -22,7 +29,7 @@
       <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
     </div>
     <div class="col-sm">
-      <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+       <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
     </div>
   </div>
 </div>
@@ -45,3 +52,4 @@
 >> Profile Link <<
 
 ##### Badges
+</html>
