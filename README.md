@@ -13,10 +13,20 @@
 ## Background & Experiance
 
 ## ISTQB Qualifications
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+    </div>
+    <div class="col-sm">
+      <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+    </div>
+    <div class="col-sm">
+      <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
+    </div>
+  </div>
+</div>
 
-<img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
-<img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
-<img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
 
 ##### Two
 
