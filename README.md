@@ -12,9 +12,9 @@
 
 ## ISTQB® Qualifications
 <p float="left">
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" height="200"/>
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL-AT.png?raw=true" alt="drawing" height="200"/>
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CT-TAE.png?raw=true" alt="drawing" height="200"/>
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" height="150"/>
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL-AT.png?raw=true" alt="drawing" height="150"/>
+  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CT-TAE.png?raw=true" alt="drawing" height="150"/>
 </p>
 
 ## BSC Qualifications
