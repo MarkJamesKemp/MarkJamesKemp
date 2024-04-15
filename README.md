@@ -18,11 +18,7 @@
 </p>
 
 ## BSC Qualifications
-<p float="left">
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
-  <img src="https://github.com/MarkJamesKemp/MarkJamesKemp/blob/main/CTFL.png?raw=true" alt="drawing" width="200"/>
-</p>
+
 
 ## HackerRank 
 <p float="left">
