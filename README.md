@@ -27,7 +27,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 </p>
 
 ## Connect
-<p float="left">
+<p float="left" padding="20">
  
   
 <a href="https://www.linkedin.com/in/markjkemp/"> <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="linkedin" height="50"/></a>
