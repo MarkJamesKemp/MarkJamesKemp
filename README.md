@@ -23,7 +23,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 <p float="left">
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.png?raw=true" alt="drawing" height="150"/>
-  <img src="hhttps://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="150"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="150"/>
 </p>
 
 ## Connect With Me
