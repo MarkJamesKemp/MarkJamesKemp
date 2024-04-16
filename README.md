@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus ex non dol
 
 Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis enim ultricies, quis imperdiet lectus suscipit. Quisque eros justo, venenatis ut nisi eu, dignissim finibus sem. Nulla sem risus, elementum non dolor sit amet, sagittis consequat ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et tortor tempus, mattis libero vel, porttitor nisl. Proin sit amet massa ipsum. Suspendisse eget urna vel leo tincidunt venenatis. Vestibulum ac pellentesque nunc. Morbi euismod tempus vehicula.
 
-## ISTQB® Qualifications
+## Certifications
 <p float="left">
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.png?raw=true" alt="drawing" height="150"/>
