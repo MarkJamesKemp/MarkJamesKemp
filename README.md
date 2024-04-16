@@ -4,14 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
-  <body>
-
-<div class="alert alert-success" role="alert">
-  <h4 class="alert-heading">Well done!</h4>
-  <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
-  <hr>
-  <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
-</div>
+<body>
 
 ## About Me
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus ex non dolor viverra scelerisque. Sed elit mauris, consequat ut imperdiet a, consectetur nec sem. Cras vehicula vitae erat ut fermentum. Mauris luctus, tellus id convallis euismod, sem mi posuere erat, id interdum eros magna nec mi. Maecenas tempus tortor purus, quis dictum quam ullamcorper eu. Sed sit amet neque id ante pellentesque congue vitae nec elit. Sed in sem id orci tincidunt posuere. Ut dapibus dictum sapien nec condimentum. Phasellus ut sem at orci imperdiet finibus. Sed porta massa justo, ac aliquam libero lacinia et.
