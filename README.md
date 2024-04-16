@@ -21,10 +21,10 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 
 ## Certifications
 <p float="left">
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.jpg?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.jpg?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.jpg?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/STF.jpg?raw=true" alt="drawing" height="125"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.jpg?raw=true" alt="drawing" height="100"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.jpg?raw=true" alt="drawing" height="100"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.jpg?raw=true" alt="drawing" height="100"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/STF.jpg?raw=true" alt="drawing" height="100"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/PCIBAP.jpg?raw=true" alt="drawing" height="100"/>
 </p>
 
