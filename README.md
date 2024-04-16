@@ -21,11 +21,11 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 
 ## Certifications
 <p float="left">
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.png?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.png?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="125"/>
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/a4q-certified-selenium-4-tester-foundation.jpg?raw=true" alt="drawing" height="125"/>
-  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.jpg?raw=true" alt="drawing" height="125"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.jpg?raw=true" alt="drawing" height="125"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.jpg?raw=true" alt="drawing" height="125"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/STF.jpg?raw=true" alt="drawing" height="125"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/PCIBAP.jpg?raw=true" alt="drawing" height="100"/>
 </p>
 
 #### HackerRank Certificates
