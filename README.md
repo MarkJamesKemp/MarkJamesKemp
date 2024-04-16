@@ -28,6 +28,14 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
   <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
 </p>
 
+#### HackerRank Certificates
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/Csharp.png?raw=true" alt="drawing" height="100"/>
+  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+
+  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+
 ## Connect
 <p float="left">
 <a href="https://www.linkedin.com/in/markjkemp/"> <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="linkedin" height="50"/></a>
