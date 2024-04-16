@@ -6,8 +6,8 @@
   </head>
 <body>
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> [!IMPORTANT]  
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus ex non dolor viverra scelerisque. Sed elit mauris, consequat ut imperdiet a, consectetur nec sem. Cras vehicula vitae erat ut fermentum. Mauris luctus, tellus id convallis euismod, sem mi posuere erat, id interdum eros magna nec mi. Maecenas tempus tortor purus, quis dictum quam ullamcorper eu. Sed sit amet neque id ante pellentesque congue vitae nec elit. Sed in sem id orci tincidunt posuere. Ut dapibus dictum sapien nec condimentum. Phasellus ut sem at orci imperdiet finibus. Sed porta massa justo, ac aliquam libero lacinia et.
 
 ## About Me
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dapibus ex non dolor viverra scelerisque. Sed elit mauris, consequat ut imperdiet a, consectetur nec sem. Cras vehicula vitae erat ut fermentum. Mauris luctus, tellus id convallis euismod, sem mi posuere erat, id interdum eros magna nec mi. Maecenas tempus tortor purus, quis dictum quam ullamcorper eu. Sed sit amet neque id ante pellentesque congue vitae nec elit. Sed in sem id orci tincidunt posuere. Ut dapibus dictum sapien nec condimentum. Phasellus ut sem at orci imperdiet finibus. Sed porta massa justo, ac aliquam libero lacinia et.
