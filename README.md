@@ -27,11 +27,11 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 </p>
 
 ## Connect
-<p float="left" padding="20">
+<p float="left">
  
   
-<a href="https://www.linkedin.com/in/markjkemp/"> <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="linkedin" height="50"/></a>
-<a href="mailto:markjkemp@pm.me"><img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="email" height="50"/></a>
+<a href="https://www.linkedin.com/in/markjkemp/" padding="20"> <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="linkedin" height="50"/></a>
+<a href="mailto:markjkemp@pm.me" padding="20"><img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="email" height="50"/></a>
 </p>
 
 </html>
