@@ -21,7 +21,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 
 ## Certifications
 <p float="left">
-  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.png?raw=true" alt="drawing" height="150" padding="20"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="150"/>
 </p>
