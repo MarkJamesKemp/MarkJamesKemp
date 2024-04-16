@@ -29,14 +29,12 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 </p>
 
 #### HackerRank Certificates
-## Certifications
 <p float="left">
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/Csharp.png?raw=true" alt="drawing" height="100"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/js.jpg?raw=true" alt="drawing" height="100"/>
-  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
-
-  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
-  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/main/Qualifications/Images/BCS-Practitioner-Cert-Business-Analysis-Practice.webp" alt="drawing" height="100"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/sqlb.jpg?raw=true" alt="drawing" height="100"/>
+<img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/sqli.jpg?raw=true" alt="drawing" height="100"/>
+<img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/sqla.jpg?raw=true" alt="drawing" height="100"/>
 </p>
 
 ## Connect
