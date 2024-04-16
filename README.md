@@ -34,12 +34,4 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 <a href="mailto:markjkemp@pm.me"><img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="email" height="50"/></a>
 </p>
 
-
-
-[![LinkedIn](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'LinkedIn')](https://www.linkedin.com/in/markjkemp/)
-
-[![Email](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg 'Email')](mailto:markjkemp@pm.me)
-
-
-
 </html>
