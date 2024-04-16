@@ -34,7 +34,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/sqla.jpg?raw=true" alt="drawing" height="100"/>
 </p>
 
-## Connect
+### Connect
 <p float="left">
 <a href="https://www.linkedin.com/in/markjkemp/"> <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="linkedin" height="30"/></a>
 <a href="mailto:markjkemp@pm.me"><img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="email" height="30"/></a>
