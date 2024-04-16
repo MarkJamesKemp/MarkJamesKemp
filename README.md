@@ -29,7 +29,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 ## Connect
 <p float="left">
   <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" alt="drawing" height="50"/>
-  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="drawing" height="50" padding-left="20px"/>
+  <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="drawing" height="50"/>
 </p>
 
 </html>
