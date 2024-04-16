@@ -24,6 +24,7 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CTFL-AT.png?raw=true" alt="drawing" height="150"/>
   <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/CT-TAE.png?raw=true" alt="drawing" height="150"/>
+  <img src="https://github.com/ThatQAGuy/ThatQAGuy/blob/main/Qualifications/Images/a4q-certified-selenium-4-tester-foundation.jpg?raw=true" alt="drawing" height="150"/>
 </p>
 
 ## Connect
