@@ -29,9 +29,9 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 ## Connect
 <p float="left">
 
-[![LinkedIn](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'LinkedIn')](https://www.linkedin.com/in/markjkemp/)
+[![LinkedIn](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'LinkedIn')](https://www.linkedin.com/in/markjkemp/){: style="height:50px"}
 
-[![Email](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg 'Email')](mailto:markjkemp@pm.me)
+[![Email](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg 'Email')](mailto:markjkemp@pm.me){: style="height:50px"}
 
 </p>
 
