@@ -28,9 +28,13 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 
 ## Connect
 <p float="left">
-[![A mushroom-head robot](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'Codey the Codecademy mascot')](https://www.linkedin.com/in/markjkemp/)
+
+[![A mushroom-head robot]("https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" 'Codey the Codecademy mascot')](https://www.linkedin.com/in/markjkemp/)
+
   <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg" href="https://www.linkedin.com/in/markjkemp/" alt="LinkedIn" height="50"/>
+
   <img src="https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/ProtonMail.svg" alt="drawing" height="50"/>
+
 </p>
 
 </html>
