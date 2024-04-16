@@ -29,6 +29,8 @@ Nulla efficitur odio vitae mi rutrum congue. Phasellus pellentesque sapien quis 
 ## Connect
 [![A mushroom-head robot](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'Codey the Codecademy mascot')](https://www.linkedin.com/in/markjkemp/)
 
+[![A mushroom-head robot](https://raw.githubusercontent.com/ThatQAGuy/ThatQAGuy/b513341ca742a509eae7dcdfa790155e396fa4da/Connect/Images/LinkedIn_icon.svg 'Codey the Codecademy mascot')](mailto:hientran@clientdiary.com?subject=Test)
+
 [hientran\@clientdiary.com](mailto:hientran@clientdiary.com?subject=Test)
 
 
